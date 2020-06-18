@@ -1,0 +1,2 @@
+# FIFA-Data-Analysis-Predictive-Modeling-Recommendation-Modeling
+Trying to understand the players population in the FIFA games. To understand the features/variable contributing towards the overall of the player and build a predictive model that could estimate of the overall of the player with accuracy.  Also, build a model to predict the value of the player with accuracy and least numbers of variables.  And build a model to recommend the most similar players to a particular player.
